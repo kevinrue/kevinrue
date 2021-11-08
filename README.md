@@ -7,7 +7,7 @@ You can find more info about my on my [blogdown][website].
 - 🔭 I’m currently working on various academic and community projects (Come back soon for links!)
 - 🌱 I’m currently learning ... a lot of different skills!
 - 👯 I’m looking to collaborate with other scientists and data science trainers.
-- ⚡ Fun fact: I initially wanted to be a biologist before I fell in love with programming to process and analyse biomedical data.
+- ⚡ Fun fact: I initially wanted to be a biologist in the lab before I fell in love with programming to process and analyse biomedical data.
 
 <!--
 **kevinrue/kevinrue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
