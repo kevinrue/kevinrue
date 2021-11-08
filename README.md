@@ -48,6 +48,9 @@ Shoutout to https://www.youtube.com/watch?v=ECuqb5Tv9qI&ab_channel=codeSTACKr fo
 
 <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=kevinrue&show_icons=true&hide_border=true" />
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevinrue)](https://github.com/anuraghazra/github-readme-stats)
+
+
 [website]: https://kevinrue.github.io/
 [youtube]: https://www.youtube.com/channel/UCVKqywTvr509fIDy-tlcu8A
 [twitter]: https://twitter.com/KevinRUE67
