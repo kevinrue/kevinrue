@@ -43,6 +43,7 @@ Shoutout to https://www.youtube.com/watch?v=ECuqb5Tv9qI&ab_channel=codeSTACKr fo
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][javascript]
 [<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][react]
 [<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][nodejs]
+[<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][sql]
 
 <br />
 <br />
@@ -72,4 +73,5 @@ Definitions:
 [javascript]: https://www.javascript.com/
 [react]: https://reactjs.org/
 [nodejs]: https://nodejs.org/
+[sql]: https://www.w3schools.com/sql/
 
