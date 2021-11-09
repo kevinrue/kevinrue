@@ -4,7 +4,7 @@ You can find more info about my on my [blogdown][website].
 
 ## I'm a Husband, Developer, and Teacher!
 
-- 🔭 I’m currently working on various academic and community projects: check out my GitHub repositories and [blogdown][website]!
+- 🔭 I’m currently working on various academic and community projects, mostly centered around the [Bioconductor project][bioconductor].
 - 🌱 I’m currently learning ... a lot of different skills!
 - 👯 I’m looking to collaborate with other scientists and data science trainers.
 - ⚡ Fun fact: I initially wanted to be a biologist in the lab before I fell in love with programming to process and analyse biomedical data.
@@ -63,3 +63,4 @@ Definitions:
 [github]: https://github.com/
 [visual-studio-code]: https://code.visualstudio.com/
 [rstudio]: https://www.rstudio.com/
+[bioconductor]: https://www.bioconductor.org/
