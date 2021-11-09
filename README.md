@@ -40,8 +40,8 @@ Shoutout to https://www.youtube.com/watch?v=ECuqb5Tv9qI&ab_channel=codeSTACKr fo
 [<img align="left" alt="RStudio" width="26px" src="https://docs.rstudio.com/connect/admin/images/RStudio-ball.svg" />][rstudio]
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][html]
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][css]
-
-(Come back soon for more icons ... as I catch'em all!)
+[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][javascript]
+[<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][react]
 
 <br />
 <br />
@@ -60,11 +60,13 @@ Definitions:
 [youtube]: https://www.youtube.com/channel/UCVKqywTvr509fIDy-tlcu8A
 [twitter]: https://twitter.com/KevinRUE67
 [linkedin]: https://www.linkedin.com/in/kevin-rue-albrecht/
-[terminal]: https://en.wikipedia.org/wiki/Terminal_(macOS)
+[terminal]: https://support.apple.com/en-gb/guide/terminal/welcome/mac
 [git]: https://git-scm.com/
 [github]: https://github.com/
 [visual-studio-code]: https://code.visualstudio.com/
 [rstudio]: https://www.rstudio.com/
 [bioconductor]: https://www.bioconductor.org/
-[html]: https://en.wikipedia.org/wiki/HTML5
-[css]: https://en.wikipedia.org/wiki/CSS
+[html]: https://www.w3schools.com/html/
+[css]: https://www.w3.org/Style/CSS/Overview.en.html
+[javascript]: https://www.javascript.com/
+[react]: https://reactjs.org/
