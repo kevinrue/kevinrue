@@ -19,7 +19,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 
-
 Shoutout to https://www.youtube.com/watch?v=ECuqb5Tv9qI&ab_channel=codeSTACKr for inspiration.
 -->
 
@@ -51,6 +50,9 @@ Shoutout to https://www.youtube.com/watch?v=ECuqb5Tv9qI&ab_channel=codeSTACKr fo
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevinrue)](https://github.com/anuraghazra/github-readme-stats)
 
+<!--
+Definitions:
+-->
 
 [website]: https://kevinrue.github.io/
 [youtube]: https://www.youtube.com/channel/UCVKqywTvr509fIDy-tlcu8A
