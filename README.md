@@ -33,9 +33,9 @@ Shoutout to https://www.youtube.com/watch?v=ECuqb5Tv9qI&ab_channel=codeSTACKr fo
 
 ### Languages and Tools:
 
-[<img align="left" alt="Linux" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" />][linux]
 [<img align="left" alt="Apple" width="26px" src="https://raw.githubusercontent.com/github/explore/5aa5d7e7250d5a637f32abf934b135411c265db8/topics/apple/apple.png" />][apple]
 [<img align="left" alt="Microsoft" width="26px" src="https://raw.githubusercontent.com/github/explore/16b6237dcae806cb7ae0bf7ac7e9fe354b88c715/topics/microsoft/microsoft.png" />][microsoft]
+[<img align="left" alt="Linux" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" />][linux]
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][terminal]
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][git]
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][github]
