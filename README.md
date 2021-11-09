@@ -4,7 +4,7 @@ You can find more info about my on my [blogdown][website].
 
 ## I'm a Husband, Developer, and Teacher!
 
-- 🔭 I’m currently working on various academic and community projects (Come back soon for links!)
+- 🔭 I’m currently working on various academic and community projects: check out my GitHub repositories and [blogdown][website]!
 - 🌱 I’m currently learning ... a lot of different skills!
 - 👯 I’m looking to collaborate with other scientists and data science trainers.
 - ⚡ Fun fact: I initially wanted to be a biologist in the lab before I fell in love with programming to process and analyse biomedical data.
