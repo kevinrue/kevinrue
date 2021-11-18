@@ -80,6 +80,12 @@ Shoutout to https://www.youtube.com/watch?v=ECuqb5Tv9qI&ab_channel=codeSTACKr fo
 |:----------:|:-----:|--------------:|-------:|--------------:|
 | [bioc_coc_multilingual](https://github.com/kevinrue/bioc_coc_multilingual) | [GitHub Pages](https://kevinrue.github.io/bioc_coc_multilingual/) | [![R-CMD-check-bioc](https://github.com/kevinrue/bioc_coc_multilingual/actions/workflows/check-bioc.yml/badge.svg)](https://github.com/kevinrue/bioc_coc_multilingual/actions/workflows/check-bioc.yml) | [![GitHub issues](https://img.shields.io/github/issues/kevinrue/bioc_coc_multilingual)](https://github.com/kevinrue/bioc_coc_multilingual) | [![GitHub pulls](https://img.shields.io/github/issues-pr/kevinrue/bioc_coc_multilingual)](https://github.com/kevinrue/bioc_coc_multilingual) |
 
+### Presentations
+
+| Repository | URL   | GitHub Action | Issues | Pull requests |
+|:----------:|:-----:|--------------:|-------:|--------------:|
+| [xaringan_ccb_2021](https://github.com/kevinrue/xaringan_ccb_2021) | [GitHub Pages](https://kevinrue.github.io/xaringan_ccb_2021/) | [![render](https://github.com/kevinrue/xaringan_ccb_2021/actions/workflows/render.yaml/badge.svg)](https://github.com/kevinrue/xaringan_ccb_2021/actions/workflows/render.yaml) | [![GitHub issues](https://img.shields.io/github/issues/kevinrue/xaringan_ccb_2021)](https://github.com/kevinrue/xaringan_ccb_2021) | [![GitHub pulls](https://img.shields.io/github/issues-pr/kevinrue/xaringan_ccb_2021)](https://github.com/kevinrue/xaringan_ccb_2021) |
+
 <!--
 Definitions:
 -->
