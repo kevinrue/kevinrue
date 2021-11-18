@@ -62,6 +62,18 @@ Shoutout to https://www.youtube.com/watch?v=ECuqb5Tv9qI&ab_channel=codeSTACKr fo
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevinrue)](https://github.com/anuraghazra/github-readme-stats)
 
+---
+
+## Package dashboard
+
+| Package | Devel | Release | Issues | Pull requests |
+|:-------:|------:|--------:|-------:|--------------:|
+| [velociraptor](https://github.com/kevinrue/velociraptor) | [![](http://bioconductor.org/shields/build/devel/bioc/velociraptor.svg)](http://bioconductor.org/checkResults/devel/bioc-LATEST/velociraptor) |[![](http://bioconductor.org/shields/build/release/bioc/velociraptor.svg)](http://bioconductor.org/checkResults/release/bioc-LATEST/velociraptor) | [![GitHub issues](https://img.shields.io/github/issues/kevinrue/velociraptor)](https://github.com/catavallejos/kevinrue/velociraptor) | [![GitHub pulls](https://img.shields.io/github/issues-pr/kevinrue/velociraptor)](https://github.com/kevinrue/velociraptor) |
+| [iSEEu](https://github.com/iSEE/iSEEu) | [![](http://bioconductor.org/shields/build/devel/bioc/iSEEu.svg)](http://bioconductor.org/checkResults/devel/bioc-LATEST/iSEEu) |[![](http://bioconductor.org/shields/build/release/bioc/iSEEu.svg)](http://bioconductor.org/checkResults/release/bioc-LATEST/iSEEu) | [![GitHub issues](https://img.shields.io/github/issues/iSEE/iSEEu)](https://github.com/iSEE/iSEEu) | [![GitHub pulls](https://img.shields.io/github/issues-pr/iSEE/iSEEu)](https://github.com/iSEE/iSEEu) |
+| [iSEE](https://github.com/iSEE/iSEE) | [![](http://bioconductor.org/shields/build/devel/bioc/iSEE.svg)](http://bioconductor.org/checkResults/devel/bioc-LATEST/iSEE) |[![](http://bioconductor.org/shields/build/release/bioc/iSEE.svg)](http://bioconductor.org/checkResults/release/bioc-LATEST/iSEE) | [![GitHub issues](https://img.shields.io/github/issues/iSEE/iSEE)](https://github.com/iSEE/iSEE) | [![GitHub pulls](https://img.shields.io/github/issues-pr/iSEE/iSEE)](https://github.com/iSEE/iSEE)|
+| [TVTB](https://github.com/kevinrue/TVTB) | [![](http://bioconductor.org/shields/build/devel/bioc/TVTB.svg)](http://bioconductor.org/checkResults/devel/bioc-LATEST/TVTB) |[![](http://bioconductor.org/shields/build/release/bioc/TVTB.svg)](http://bioconductor.org/checkResults/release/bioc-LATEST/TVTB) | [![GitHub issues](https://img.shields.io/github/issues/kevinrue/TVTB)](https://github.com/catavallejos/kevinrue/TVTB) | [![GitHub pulls](https://img.shields.io/github/issues-pr/kevinrue/TVTB)](https://github.com/kevinrue/TVTB) |
+| [GOexpress](https://github.com/kevinrue/GOexpress) | [![](http://bioconductor.org/shields/build/devel/bioc/GOexpress.svg)](http://bioconductor.org/checkResults/devel/bioc-LATEST/GOexpress) |[![](http://bioconductor.org/shields/build/release/bioc/GOexpress.svg)](http://bioconductor.org/checkResults/release/bioc-LATEST/GOexpress) | [![GitHub issues](https://img.shields.io/github/issues/kevinrue/GOexpress)](https://github.com/catavallejos/kevinrue/GOexpress) | [![GitHub pulls](https://img.shields.io/github/issues-pr/kevinrue/GOexpress)](https://github.com/kevinrue/GOexpress) |
+
 <!--
 Definitions:
 -->
