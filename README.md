@@ -64,7 +64,7 @@ Shoutout to https://www.youtube.com/watch?v=ECuqb5Tv9qI&ab_channel=codeSTACKr fo
 
 ---
 
-## Package dashboard
+### Packages
 
 | Package | Devel | Release | Issues | Pull requests |
 |:-------:|------:|--------:|-------:|--------------:|
@@ -73,6 +73,12 @@ Shoutout to https://www.youtube.com/watch?v=ECuqb5Tv9qI&ab_channel=codeSTACKr fo
 | [iSEE](https://github.com/iSEE/iSEE) | [![](http://bioconductor.org/shields/build/devel/bioc/iSEE.svg)](http://bioconductor.org/checkResults/devel/bioc-LATEST/iSEE) |[![](http://bioconductor.org/shields/build/release/bioc/iSEE.svg)](http://bioconductor.org/checkResults/release/bioc-LATEST/iSEE) | [![GitHub issues](https://img.shields.io/github/issues/iSEE/iSEE)](https://github.com/iSEE/iSEE) | [![GitHub pulls](https://img.shields.io/github/issues-pr/iSEE/iSEE)](https://github.com/iSEE/iSEE)|
 | [TVTB](https://github.com/kevinrue/TVTB) | [![](http://bioconductor.org/shields/build/devel/bioc/TVTB.svg)](http://bioconductor.org/checkResults/devel/bioc-LATEST/TVTB) |[![](http://bioconductor.org/shields/build/release/bioc/TVTB.svg)](http://bioconductor.org/checkResults/release/bioc-LATEST/TVTB) | [![GitHub issues](https://img.shields.io/github/issues/kevinrue/TVTB)](https://github.com/catavallejos/kevinrue/TVTB) | [![GitHub pulls](https://img.shields.io/github/issues-pr/kevinrue/TVTB)](https://github.com/kevinrue/TVTB) |
 | [GOexpress](https://github.com/kevinrue/GOexpress) | [![](http://bioconductor.org/shields/build/devel/bioc/GOexpress.svg)](http://bioconductor.org/checkResults/devel/bioc-LATEST/GOexpress) |[![](http://bioconductor.org/shields/build/release/bioc/GOexpress.svg)](http://bioconductor.org/checkResults/release/bioc-LATEST/GOexpress) | [![GitHub issues](https://img.shields.io/github/issues/kevinrue/GOexpress)](https://github.com/catavallejos/kevinrue/GOexpress) | [![GitHub pulls](https://img.shields.io/github/issues-pr/kevinrue/GOexpress)](https://github.com/kevinrue/GOexpress) |
+
+### Websites
+
+| Repository | URL   | GitHub Action | Issues | Pull requests |
+|:----------:|:-----:|--------------:|-------:|--------------:|
+| [bioc_coc_multilingual](https://github.com/kevinrue/bioc_coc_multilingual) | [GitHub Pages](https://kevinrue.github.io/bioc_coc_multilingual/) | [![R-CMD-check-bioc](https://github.com/kevinrue/bioc_coc_multilingual/actions/workflows/check-bioc.yml/badge.svg)](https://github.com/kevinrue/bioc_coc_multilingual/actions/workflows/check-bioc.yml) | [![GitHub issues](https://img.shields.io/github/issues/kevinrue/bioc_coc_multilingual)](https://github.com/kevinrue/bioc_coc_multilingual) | [![GitHub pulls](https://img.shields.io/github/issues-pr/kevinrue/bioc_coc_multilingual)](https://github.com/kevinrue/bioc_coc_multilingual) |
 
 <!--
 Definitions:
