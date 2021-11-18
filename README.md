@@ -84,6 +84,7 @@ Shoutout to https://www.youtube.com/watch?v=ECuqb5Tv9qI&ab_channel=codeSTACKr fo
 
 | Repository | URL   | GitHub Action | Issues | Pull requests |
 |:----------:|:-----:|--------------:|-------:|--------------:|
+| [xaringan_nextgen_omics_2021](https://github.com/kevinrue/xaringan_nextgen_omics_2021) | [GitHub Pages](https://kevinrue.github.io/xaringan_nextgen_omics_2021/) | [![render](https://github.com/kevinrue/xaringan_nextgen_omics_2021/actions/workflows/render.yaml/badge.svg)](https://github.com/kevinrue/xaringan_nextgen_omics_2021/actions/workflows/render.yaml) | [![GitHub issues](https://img.shields.io/github/issues/kevinrue/xaringan_nextgen_omics_2021)](https://github.com/kevinrue/xaringan_nextgen_omics_2021) | [![GitHub pulls](https://img.shields.io/github/issues-pr/kevinrue/xaringan_nextgen_omics_2021)](https://github.com/kevinrue/xaringan_nextgen_omics_2021) |
 | [xaringan_ccb_2021](https://github.com/kevinrue/xaringan_ccb_2021) | [GitHub Pages](https://kevinrue.github.io/xaringan_ccb_2021/) | [![render](https://github.com/kevinrue/xaringan_ccb_2021/actions/workflows/render.yaml/badge.svg)](https://github.com/kevinrue/xaringan_ccb_2021/actions/workflows/render.yaml) | [![GitHub issues](https://img.shields.io/github/issues/kevinrue/xaringan_ccb_2021)](https://github.com/kevinrue/xaringan_ccb_2021) | [![GitHub pulls](https://img.shields.io/github/issues-pr/kevinrue/xaringan_ccb_2021)](https://github.com/kevinrue/xaringan_ccb_2021) |
 
 <!--
