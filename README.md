@@ -78,7 +78,7 @@ Shoutout to https://www.youtube.com/watch?v=ECuqb5Tv9qI&ab_channel=codeSTACKr fo
 
 | Repository | URL   | GitHub Action | Issues | Pull requests |
 |:----------:|:-----:|--------------:|-------:|--------------:|
-| [bioc_coc_multilingual](https://github.com/kevinrue/bioc_coc_multilingual) | [GitHub Pages](https://kevinrue.github.io/bioc_coc_multilingual/) | [![R-CMD-check-bioc](https://github.com/kevinrue/bioc_coc_multilingual/actions/workflows/check-bioc.yml/badge.svg)](https://github.com/kevinrue/bioc_coc_multilingual/actions/workflows/check-bioc.yml) | [![GitHub issues](https://img.shields.io/github/issues/kevinrue/bioc_coc_multilingual)](https://github.com/kevinrue/bioc_coc_multilingual) | [![GitHub pulls](https://img.shields.io/github/issues-pr/kevinrue/bioc_coc_multilingual)](https://github.com/kevinrue/bioc_coc_multilingual) |
+| [bioc_coc_multilingual](https://github.com/Bioconductor/bioc_coc_multilingual) | [GitHub Pages](https://Bioconductor.github.io/bioc_coc_multilingual/) | [![R-CMD-check-bioc](https://github.com/Bioconductor/bioc_coc_multilingual/actions/workflows/check-bioc.yml/badge.svg)](https://github.com/Bioconductor/bioc_coc_multilingual/actions/workflows/check-bioc.yml) | [![GitHub issues](https://img.shields.io/github/issues/Bioconductor/bioc_coc_multilingual)](https://github.com/Bioconductor/bioc_coc_multilingual) | [![GitHub pulls](https://img.shields.io/github/issues-pr/Bioconductor/bioc_coc_multilingual)](https://github.com/Bioconductor/bioc_coc_multilingual) |
 
 ### Presentations
 
