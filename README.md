@@ -1,6 +1,6 @@
 ### Hi there, I'm Kevin Rue-Albrecht 👋
 
-You can find more info about my on my [blogdown][website].
+You can find more info about me on my [blogdown][website].
 
 ## I'm a Husband, Developer, and Teacher!
 
