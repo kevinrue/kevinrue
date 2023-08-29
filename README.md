@@ -1,4 +1,4 @@
-p### Hi there, I'm Kevin Rue-Albrecht 👋
+### Hi there, I'm Kevin Rue-Albrecht 👋
 
 You can find more info about me on my [blogdown][website].
 
