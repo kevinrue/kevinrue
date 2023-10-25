@@ -2,7 +2,7 @@
 
 You can find more info about me on my [blogdown][website].
 
-## I'm a Husband, Developer, and Teacher!
+## I'm a Husband, Father, Developer, and Teacher!
 
 - 🔭 I’m currently working on various academic and community projects, mostly centered around the [Bioconductor project][bioconductor].
 - 🌱 I’m currently learning ... a lot of different skills!
