@@ -13,3 +13,7 @@ This 12-month project started in April 2026 and is due to conclude in March 2027
 Contributor to this [Research Software Maintenance Fund](https://www.software.ac.uk/news/announcing-19-projects-funded-through-research-software-maintenance-fund-round-2) (RSMF) Round 2 project supported by the [Institute for Research Software](https://www.software.ac.uk/).
 
 This 12-month project started in September 2026 and is due to conclude in August 2027.
+
+## Bioconductor All-Community Handbook (BACH)
+
+Leading this collaborative [online book](https://bioconductor.github.io/bioconductor-community-handbook/) designed to capture and share knowledge about the Bioconductor community, its practices, and its resources.
